@@ -2,7 +2,7 @@
 
 1 - Création d'un compte sur Heroku --> https://dashboard.heroku.com/ 
 
-2 - Dans le shell se loguer avec sont compte heroku (cmd : heroku login)
+2 - Dans le shell se loguer avec sont compte heroku (heroku login)
 
 3 - Lier son compte GitHub à Héroku
     Sur le Dashboard aller dans Deploy 
