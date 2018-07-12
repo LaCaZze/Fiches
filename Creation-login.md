@@ -14,7 +14,7 @@ module.exports = mongoose.model("User", UserSchema);
 ```
 
 - Créer la route dans app.js:
-```javascript
+``` javascript
 // routes profiles
 var userSession = require("./routes/userSession");
 app.use("/profiles", userSession);
