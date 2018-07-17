@@ -2,10 +2,10 @@
 
 1 - Création d'un compte sur Heroku --> https://dashboard.heroku.com/ 
 
-2 - Dans le shell se loguer avec sont compte heroku (cmd : heroku login)
+2 - Dans le shell se loguer avec sont compte heroku (commande : heroku login)
 
 3 - Lier son compte GitHub à Héroku
-    Crée une nouvelle applicartion
+    Crée une nouvelle application
     cliquer sur l'icon GitHub
     Sur le Dashboard aller dans Deploy 
       dans la partie "Automatic deploys" cocher Disable automatic Deploys
